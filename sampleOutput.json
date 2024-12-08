@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+    {
+    "source": {
+    "id": "nfl-news",
+    "name": "NFL News"
+    },
+    "author": null,
+    "title": "Ravens-Chargers on 'Monday Night Football': What We Learned from Baltimore's 30-23 win - NFL.com",
+    "description": "Lamar Jackson -- along with plenty of help from Derrick Henry and Mark Andrews -- took center stage in the third Harbowl. Jackson dazzled with his arm and legs as he led the Baltimore Ravens past the Los Angeles Chargers on Monday night.",
+    "url": "https://www.nfl.com/news/ravens-chargers-on-monday-night-football-what-we-learned-from-baltimore-s-30-23-win",
+    "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/x2rvu4nnyzkatulpqfk3",
+    "publishedAt": "2024-11-26T04:17:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Nathaniel Meyersohn",
+    "title": "Walmart rolls back DEI programs after right-wing backlash - CNN",
+    "description": "Walmart, the largest private employer in the United States, will curb some diversity, equity and inclusion (DEI) efforts. It’s the latest company to backtrack on diversity initiatives in the face of right-wing pressure.",
+    "url": "https://www.cnn.com/2024/11/25/business/walmart-dei-rollback/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185293124.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-11-26T03:11:00Z",
+    "content": "Walmart, the largest private employer in the United States, will curb some diversity, equity and inclusion (DEI) efforts. Its the latest company to backtrack on diversity initiatives in the face of r… [+1731 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Jeff Eisenberg",
+    "title": "Transgender volleyball controversy: Judge rules San Jose State women’s volleyball player eligible to play in conference tournament - Yahoo Sports",
+    "description": "A federal judge denied emergency injunctive relief despite complaints from competitors who object to the Spartans player's participation on the grounds that ...",
+    "url": "https://sports.yahoo.com/transgender-volleyball-controversy-judge-rules-san-jose-state-womens-volleyball-player-eligible-to-play-in-conference-tournament-004235078.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Yp2y_VMg2u1B0W6T87Deyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/fecb4ed0-ab8d-11ef-b0d5-37512b75f421",
+    "publishedAt": "2024-11-26T02:42:00Z",
+    "content": "San Jose State women's volleyball is 14-5 this season. (Photo by Andrew Wevers/Getty Images)\r\nA San Jose State womens volleyball player is eligible to play in her conference tournament this week, a f… [+6031 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jackie Wattles",
+    "title": "Astronauts had to shut down a Russian space station module due to ‘unusual odor’ from spacecraft - CNN",
+    "description": "A Russian segment of the International Space Station was locked down this weekend after cosmonauts found an “unusual odor” emanating from a visiting cargo capsule, NASA said.",
+    "url": "https://www.cnn.com/2024/11/25/science/astronauts-space-station-odor-russian-module/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/blog-90p-dock-112324.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-11-26T02:32:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nRussian cosmonauts on the International Space Station … [+3749 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Trump threatens China, Mexico and Canada with new tariffs - BBC.com",
+    "description": "The president-elect said he plans to impose 25% tariffs on Mexico and Canada and an additional 10% on China on his first day in office.",
+    "url": "https://www.bbc.com/news/articles/cvg7y52n411o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b76/live/3784def0-ab9b-11ef-a966-039e5396fdfe.jpg",
+    "publishedAt": "2024-11-26T02:23:38Z",
+    "content": "Donald Trump says he will hit China, Mexico and Canada with new tariffs on day one of his presidency, in an effort toforce them to crack down on illegal immigration and drug smuggling into the US.\r\nT… [+3803 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Kelsey Vlamis",
+    "title": "California proposes its own EV buyer credit — which could cut out Elon Musk's Tesla - Business Insider",
+    "description": "California Gov. Gavin Newsom said he'll restart a rebate program if Trump ends the federal EV tax credit, but Tesla models could be excluded.",
+    "url": "https://www.businessinsider.com/california-proposes-ev-buyer-credit-excludes-elon-musk-tesla-2024-11",
+    "urlToImage": "https://i.insider.com/674506b19f2901eb6036d14e?width=1200&format=jpeg",
+    "publishedAt": "2024-11-26T01:15:50Z",
+    "content": "California Gov. Gavin Newsom is preparing to step in if President-elect Donald Trump fulfills his promise to axe the federal electric-vehicle tax credit but one notable EV maker could be left out.\r\nN… [+3436 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "More than a dozen missing after tourist boat sinks off Egyptian coast, officials say - ABC News",
+    "description": null,
+    "url": "https://abcnews.go.com/International/dozens-tourists-missing-after-boat-sinks-off-egyptian/story?id\\\\u003d116193638",
+    "urlToImage": null,
+    "publishedAt": "2024-11-26T00:56:26Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "CBS News",
+    "title": "Judge hears arguments over pending Infowars sale - CBS News",
+    "description": "A federal judge in Texas plans to hold another hearing to decide whether satirical news outlet \"The Onion\" can move forward with the purchase of conspiracy theorist Alex Jones' company, Infowars. CBS News correspondent Janet Shamlian has the latest from Houst…",
+    "url": "https://www.cbsnews.com/video/judge-hears-arguments-over-pending-infowars-sale/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/26/da30bd33-f7b9-47e9-89f1-b7829a07c4d2/thumbnail/1200x630/9e764ea5bddaf9bf3c94a423f2ccc800/cbsn-fusion-judge-hears-arguments-over-pending-infowars-sale-thumbnail.jpg?v=e3aa8b4a58817620ee227c79202c9709",
+    "publishedAt": "2024-11-25T23:40:00Z",
+    "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "The Wall Street Journal",
+    "title": "Israel and Hezbollah Edge Closer to Cease-Fire Deal - The Wall Street Journal",
+    "description": null,
+    "url": "https://www.wsj.com/world/middle-east/cease-fire-to-halt-israel-hezbollah-fighting-in-lebanon-draws-closer-b0565319",
+    "urlToImage": null,
+    "publishedAt": "2024-11-25T23:07:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GSMArena.com"
+    },
+    "author": "Michail",
+    "title": "Bloomberg: Sony is working on a handheld PS5 console - GSMArena.com news - GSMArena.com",
+    "description": "It would be able to play full PS5 titles without an internet connection. Last year, Sony announced its PlayStation Portal – a remote play handheld that...",
+    "url": "https://www.gsmarena.com/bloomberg_sony_is_working_on_a_handheld_ps5_console-news-65483.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/bloomberg-sony-working-on-handheld-ps5-console/-952x498w6/gsmarena_00.jpg",
+    "publishedAt": "2024-11-25T22:58:01Z",
+    "content": "Last year, Sony announced its PlayStation Portal a remote play handheld that streams your PS5 games via Wi-Fi. A far cry from a successor to the legendary PlayStation Portable (PSP) and PS Vita, a ne… [+930 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Bob Harig",
+    "title": "Tiger Woods Will Not Play in His Hero World Challenge - Sports Illustrated",
+    "description": "Woods had back surgery in September after playing just five tournaments in 2024.",
+    "url": "https://www.si.com/golf/tiger-woods-will-not-play-hero-world-challenge",
+    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3969,h_2232,x_1647,y_425/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jdjpw86y4kh1ty183y.jpg",
+    "publishedAt": "2024-11-25T22:27:10Z",
+    "content": "Tiger Woods will not participate in next weeks Hero World Challenge, the annual charity event in the Bahamas that benefits his foundation.\r\nWoods announced the final three players in the field on Mon… [+2490 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-11-25T22:26:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SpaceNews"
+    },
+    "author": "",
+    "title": "Firefly sets January launch date for first lunar lander mission - SpaceNews",
+    "description": "Firefly Aerospace says it is planning a launch of its first lunar lander mission in January, meaning that none of the three commercial lander missions once slated to launch in the fourth quarter of…",
+    "url": "https://spacenews.com/firefly-sets-january-launch-date-for-first-lunar-lander-mission/",
+    "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/blueghost1.jpg?resize=1200%2C1200&ssl=1",
+    "publishedAt": "2024-11-25T22:04:49Z",
+    "content": "WASHINGTON Firefly Aerospace says it is planning a launch of its first lunar lander mission in January, meaning that none of the three commercial lander missions once slated to launch in the fourth q… [+3188 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "JAIMIE DING",
+    "title": "Judge in LA delays until January decision on resentencing Menendez brothers - The Associated Press",
+    "description": "A judge has delayed until January his decision on whether to resentence Erik and Lyle Menendez for killing their parents in their Beverly Hills mansion 35 years ago. Superior Court Judge Michael Jesic said he needed time to review 17 boxes of documents. Still…",
+    "url": "https://apnews.com/article/menendez-brothers-erik-lyle-murder-crime-netflix-trial-free-f3264b1e7009ea4c176b02b1d3fe9850",
+    "urlToImage": "https://dims.apnews.com/dims4/default/d422f3e/2147483647/strip/true/crop/3021x1699+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F61%2F54939d2404bcb35d405ac0b8de60%2Feaa13ad1a19f4ab5965b4b42e090f7ac",
+    "publishedAt": "2024-11-25T22:00:00Z",
+    "content": "LOS ANGELES (AP) A judge on Monday delayed until January his decision on whether to resentence Erik and Lyle Menendez for killing their parents in their Beverly Hills mansion 35 years ago, squashing … [+5952 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Sam Tupper",
+    "title": "Bird flu virus detected in raw milk in California - CNN",
+    "description": "Bird flu virus has been found in a batch of raw milk sold in California, and consumers should not drink it, the state Department of Public Health warned Sunday.",
+    "url": "https://www.cnn.com/2024/11/25/health/bird-flu-california-raw-milk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/raw-milk-california-recall.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-11-25T21:47:00Z",
+    "content": "Bird flu virus has been found in a batch of raw milk sold in California, and consumers should not drink it, the state Department of Public Health warned Sunday.\r\nThe agency said that no illnesses hav… [+3408 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Sara Murray, Kristen Holmes, Kate Sullivan",
+    "title": "Trump lawyers investigate allegations that top aide sought financial gain from influence with president-elect, sources say - CNN",
+    "description": "Attorneys for Donald Trump conducted an internal investigation into allegations that one of his top aides, Boris Epshteyn, has sought to gain financially from his influence with Trump and others in the president-elect’s orbit, according to multiple sources fa…",
+    "url": "https://www.cnn.com/2024/11/25/politics/trump-lawyers-investigate-allegations-boris-epshteyn-financial-gain/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2161847039.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-11-25T21:41:00Z",
+    "content": "Attorneys for Donald Trump conducted an internal investigation into allegations that one of his top aides, Boris Epshteyn, has sought to gain financially from his influence with Trump and others in t… [+8481 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Billboard"
+    },
+    "author": "Bill Donahue",
+    "title": "Drake Accuses UMG & Spotify of Scheme To ‘Artificially Inflate’ Kendrick Lamar’s ‘Not Like Us’ - Billboard",
+    "description": "Drake says UMG and Spotify schemed to boost Kendrick Lamar’s \"Not Like Us\" via bots, payola and other methods.",
+    "url": "http://www.billboard.com/pro/drake-umg-spotify-schemed-boost-kendrick-not-like-us/",
+    "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/11/Drake-dec-2022-a-red-billboard-pro-1260.jpg?w=1024",
+    "publishedAt": "2024-11-25T21:40:48Z",
+    "content": "Drake has initiated legal action against Universal Music Group (UMG) and Spotify over allegations that the two companies conspired to artificially inflate the popularity of Kendrick Lamar’s “Not Like… [+4888 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Kyle Orland",
+    "title": "Nvidia’s new AI audio model can synthesize sounds that have never existed - Ars Technica",
+    "description": "What does a screaming saxophone sound like? The Fugatto model has an answer…",
+    "url": "https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1469448038-1152x648.jpg",
+    "publishedAt": "2024-11-25T21:40:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Courtney Reagan",
+    "title": "Kohl's CEO Tom Kingsbury to step down in January, to be replaced by Michaels CEO Ashley Buchanan - CNBC",
+    "description": "Kohl's CEO Tom Kingsbury is stepping down on Jan. 15, to be replaced by current Michaels CEO Ashley Buchanan.",
+    "url": "https://www.cnbc.com/2024/11/25/kohls-ceo-tom-kingsbury-to-step-down-replaced-by-ashley-buchanan.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108067823-1732569044346-Buchanan_Kinsbury.jpg?v=1732570971&w=1920&h=1080",
+    "publishedAt": "2024-11-25T21:30:41Z",
+    "content": "Kohl's is getting a new CEO, its third since 2018.\r\nThe off-mall department store's current CEO Tom Kingsbury is stepping down effective Jan. 15. He will leave the position he held first on an interi… [+1766 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-11-25T20:40:05Z",
+    "content": "[Removed]"
+    }
+    ]
+    }
