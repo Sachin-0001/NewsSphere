@@ -73,14 +73,14 @@ export default class NavBar extends Component {
            
               </ul>
             </div>
-            <form class="d-flex">
+            <form className="d-flex">
                   <input
-                    class="form-control me-2"
+                    className="form-control me-2"
                     type="search"
                     placeholder="Search"
                     aria-label="Search"
                   />
-                  <button class="btn btn-light" type="submit">
+                  <button className="btn btn-light" type="submit">
                     Search
                   </button>
                 </form>
